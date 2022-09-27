@@ -2,7 +2,7 @@
 "Ads":"true",
 "vpn":"GB",
 "vpnonoff":"true",
-"hosturl":"",
+"hosturl":"touchvpn",
 "carriar":"touchvpn",
 "ads_type":"admob",
 "ads_native_type":"nativebanner",
