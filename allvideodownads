@@ -1,7 +1,7 @@
 {
 "Ads":"true",
 "vpn":"GB",
-"vpnonoff":"true",
+"vpnonoff":"false",
 "hosturl":"https://d1ex46a0eaqlz9.cloudfront.net",
 "carriar":"touchvpn",
 "ads_type":"admob",
