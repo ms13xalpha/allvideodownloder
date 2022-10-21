@@ -1,5 +1,5 @@
 {
-"Ads":false,
+"Ads":true,
 "vpn":"GB",
 "vpnonoff":false,
 "hosturl":"https://d1ex46a0eaqlz9.cloudfront.net",
@@ -12,9 +12,9 @@
 "HideIsTimer":true,
 "IsTimerListing":true,
 "IsTimerListingCount":5,
-"Rinter":"/6499/example/interstitial",
-"Rbanner":"/6499/example/banner",
-"Rappopen":"/6499/example/app-open",
-"Rnative":"/6499/example/native",
+"Rinter":"/22828179671/com.downloader.video.downloads.interstitial",
+"Rbanner":"/22828179671/com.downloader.video.downloads.banner",
+"Rappopen":"/22828179671/com.downloader.video.downloads.appopen",
+"Rnative":"/22828179671/com.downloader.video.downloads.native",
 "VpnBlockCountry":["GE","DE","KZ","MD","NL","SG","GB","UA","US","UZ","VN"]
 }
